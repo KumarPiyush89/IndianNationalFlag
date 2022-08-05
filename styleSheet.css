@@ -159,3 +159,9 @@ span{
     text-shadow: 4px 4px 4px black;
     color:red;
 }
+img
+{
+    position: relative;
+    height: 400px;
+    width: 400px;
+}
